@@ -1,0 +1,6 @@
+##no comments
+##pretty url
+#RewriteEngine On
+#RewriteRule ^post$ post.php
+#RewriteRule ^admin/posts/([a-zA-Z0-9_]+)/([0-9]+)$ admin/posts.php?source=$1&post_id=$2
+#RewriteRule ^admin/posts$ admin/posts.php
