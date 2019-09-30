@@ -1,6 +1,6 @@
 # Blog 
 
-The management system that will help to manage the posting of blogs,manage the comments of the viewers
+The content management system that will help to manage the posting of blogs,manage the comments of the viewers
 ## Installation
 
 Get started by cloning the repository
