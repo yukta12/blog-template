@@ -1,4 +1,4 @@
-# Restaurant-ordering
+# Blog 
 
 The management system that will help to manage the posting of blogs,manage the comments of the viewers
 ## Installation
